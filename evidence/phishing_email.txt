@@ -1,0 +1,15 @@
+From: Amazon Support <security@amaz0n-support.com>
+To: finance.user@company.com
+Subject: Urgent: Verify Your Amazon Account
+
+Dear Customer,
+
+We detected suspicious activity on your Amazon account.
+To avoid account suspension, please verify your identity immediately.
+
+Click the link below to secure your account:
+http://amaz0n-verification[.]com/login
+
+Failure to verify within 24 hours will result in account suspension.
+
+Amazon Security Team
